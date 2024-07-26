@@ -7,7 +7,7 @@
 	The target positions are marked by the orange lines.
 	(b) shows the KDE number density in blue;
     The achieved fraction of particles with position $x<0$ is reported in blue and the target fraction in orange.
-	(c) shows the input torque $\omega_x$;
+	(c) shows the input torque $\omega_x$.
 	</i></p>
   <img src="./media/split_and_shear_ex4_gif.gif" alt="Energy Efficient Fish Navigation in Turbulent Flow" width="900" height="600">
   <p><i>MPC for splitting population and controlling $y$-velocity.
@@ -17,7 +17,7 @@
 	(b) shows the KDE number density in blue;
 	(c) shows the KDE $y$-velocity in blue along with the target $y$-velocity in orange;
 	(d) shows the input torque $\omega_x$;
-	(e) shows the input torque $\omega_y$;</i></p>
+	(e) shows the input torque $\omega_y$.</i></p>
 </div>
 
 This repository contains code to reproduce the results in the paper "Model Predictive Control of Active Brownian Particles" by T. Quah, J. B. Rawlings, and S. C. Takatori. The code is written in Python and uses the BD simulation package HOOMD-blue. The code is organized as follows:
