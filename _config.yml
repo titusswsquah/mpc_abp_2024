@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Model Predictive Control of Noninteracting Active Brownian Particles]
 description: |
-  Titus Quah, Sho C. Takatori, and James B. Rawlings
+  Titus Quah, Sho C. Takatori, and James B. Rawlings <br>
   Department of Chemical Engineering, University of California, Santa Barbara
