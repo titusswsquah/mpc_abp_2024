@@ -1,5 +1,11 @@
+---
+layout: default
+title: Model Predictive Control of Noninteracting Active Brownian Particles
+description: Titus Quah, James B. Rawlings, and Sho C. Takatori<br>Department of Chemical Engineering, University of California, Santa Barbara
+theme: jekyll-theme-cayman
+---
 <div align="center">
-  <img src="./media/split_and_dance_ex3_gif.gif" alt="Collision-free minimum snap optimized trajectory through a NeRF" width="900" height="600">
+  <img src="./media/split_and_dance_ex3_gif.gif" alt="MPC split and dance" width="900" height="600">
   <p><i>MPC for splitting population and juggling densities.
 	(a) shows a subset of the particles in the BD simulation.
 	The particles are colored by their orientation as indicated by the legend.
@@ -8,7 +14,7 @@
     The achieved fraction of particles with position $x<0$ is reported in blue and the target fraction in orange.
 	(c) shows the input torque $\omega_x$.
 	</i></p>
-  <img src="./media/split_and_shear_ex4_gif.gif" alt="Energy Efficient Fish Navigation in Turbulent Flow" width="900" height="600">
+  <img src="./media/split_and_shear_ex4_gif.gif" alt="Split and shear" width="900" height="600">
   <p><i>MPC for splitting population and controlling $y$-velocity.
 	(a) shows a subset of the particles in the BD simulation.
 	The particles are colored by their orientation as indicated by the legend.
