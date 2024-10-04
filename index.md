@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Model Predictive Control of Noninteracting Active Brownian Particles
-description: Titus Quah, James B. Rawlings, and Sho C. Takatori<br>Department of Chemical Engineering, University of California, Santa Barbara
+title: Model Predictive Control of Non-interacting Active Brownian Particles
+description: Titus Quah, Kevin J. Modica, James B. Rawlings, and Sho C. Takatori<br>Department of Chemical Engineering, University of California, Santa Barbara
 theme: jekyll-theme-cayman
 ---
 <div align="center">
