@@ -1,4 +1,4 @@
-# Code for "Model Predictive Control of Active Brownian Particles"
+# Code for "Model Predictive Control of Non-interacting Active Brownian Particles"
 <div align="center">
   <img src="./media/split_and_dance_ex3_gif.gif" alt="Collision-free minimum snap optimized trajectory through a NeRF" width="900" height="600">
   <p><i>MPC for splitting population and juggling densities.
@@ -20,7 +20,7 @@
 	(e) shows the input torque $\omega_y$.</i></p>
 </div>
 
-This repository contains code to reproduce the results in the paper "Model Predictive Control of Active Brownian Particles" by T. Quah, J. B. Rawlings, and S. C. Takatori. The code is written in Python and uses the BD simulation package HOOMD-blue. The code is organized as follows:
+This repository contains code to reproduce the results in the paper "Model Predictive Control of Non-interacting Active Brownian Particles" by T. Quah, K.J. Modica, J. B. Rawlings, and S. C. Takatori. The code is written in Python and uses the BD simulation package HOOMD-blue. The code is organized as follows:
 
 ### Dependencies
 ```
